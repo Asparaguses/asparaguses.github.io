@@ -1,0 +1,8 @@
+::backdrop{
+    color: cadetblue;
+} 
+.regular{
+    font-weight: bolder;
+    color: white;
+    border-color: black;
+}
